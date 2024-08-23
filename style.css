@@ -4,12 +4,12 @@ body {
     line-height: 1.5;
     margin: 0;
     padding: 0;
-    background-color: #00d9ff;
+    background-color: #333;
 }
 
 h1 {
     text-align: center;
-    color: #333;
+    color: #fff;
     margin-top: 20px;
 }
 
